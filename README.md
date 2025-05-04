@@ -613,7 +613,7 @@ verb 3
    * O OpenVPN tentará estabelecer uma conexão com o seu PC.
    * Caso a conexão seja bem-sucedida, você estará acessando a internet como se estivesse no mesmo local que o seu PC!
 
-  ⚠️ Até aqui tentamos, mas sem sucesso.
+  ⚠️ Fui Até aqui, tentamos, mas sem sucesso (timeout).
 ---
 
 ### Passo 6 (Opcional): **Configuração do DDNS** (Para IP Dinâmico)
@@ -621,7 +621,3 @@ verb 3
 Se o seu IP público mudar frequentemente (como acontece com muitas conexões de internet residencial), pode ser interessante configurar um **DDNS** para associar um nome de domínio ao seu IP dinâmico.
 
 * **No-IP** e **DuckDNS** são serviços gratuitos de DDNS. Você pode registrar um nome de domínio gratuito e configurar seu roteador ou computador para atualizar automaticamente o IP.
-
----
-
-Se seguir esses passos, sua VPN estará configurada. Caso tenha algum erro ou não entenda alguma parte, só me avisar e eu te ajudo!
